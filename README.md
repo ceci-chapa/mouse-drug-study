@@ -1,4 +1,4 @@
-# Matplotlib Challenge
+# Mouse Drug Study
 Exploring Matplotlib
 
 ## Three Observations from drug regimen study
